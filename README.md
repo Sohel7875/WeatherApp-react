@@ -89,7 +89,7 @@ Simply run the application, and the current weather information and 5-day foreca
 
 ## Live Demo
 
-Explore the live deployment of WeatherApp: https://weather-app-pi-lyart.vercel.app
+Explore the live deployment of WeatherApp: https://weather-react-app-one-red.vercel.app
 
 
 ## Tech Stack
